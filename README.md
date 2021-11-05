@@ -2,7 +2,7 @@
 A simple shell script allowing communication to a Govee LED strip via [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy).  
 An effort has been made to include as much detailed usage documentation to make this more beginner-friendly.  
 
-#### DISCLAIMER: This is for educational purposes only. By using this resource, you acknowledge that neither me nor any repository contributors are responsible for any possible damage caused by using this resource. 
+#### DISCLAIMER: This is for educational purposes only. By using this resource, you acknowledge that neither me nor any repository contributors are responsible for any possible damage caused by using this resource. Use at your own risk.  
 ### Features:
 - on/off
 - colour (RGB in hex)
@@ -12,7 +12,7 @@ An effort has been made to include as much detailed usage documentation to make 
 ## Devices with known support
 Successfully run on `Raspbian GNU/Linux 9 (stretch)`, version `5.10.63+`, on a Raspberry Pi Zero W.  
 Device(s) successfully used: `H6139`.\
-If this script works with a different device or OS, let me know via one of the contact methods in [Support](##Support).
+If this script works with a different device or OS, let me know via one of the contact methods in [Support](https://github.com/calamityy/govee-LED-Shell-cmd#support).
 
 # Installation
 Simply navigate to your chosen directory, and run
