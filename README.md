@@ -10,7 +10,7 @@ An effort has been made to include as much detailed usage documentation to make 
 - preset colours
 
 ## Devices with known support
-Successfully run on `Raspbian GNU/Linux 9 (stretch)`, version `5.10.63+`, on a Raspberry Pi Zero W.  
+Successfully run on `Raspbian GNU/Linux 9 (stretch)`, version `5.10.63+`, on a `Raspberry Pi Zero W`.  
 Device(s) successfully used: `H6139`.\
 If this script works with a different device or OS, let me know via one of the contact methods in [Support](https://github.com/calamityy/govee-LED-Shell-cmd#support).
 
@@ -108,5 +108,5 @@ https://github.com/BeauJBurroughs/Govee-H6127-Reverse-Engineering
 
 ## Support
 I'm a beginner to shell/bash, so any contributions are greatly appreciated!  
-If you wish to contribute to this respository: Make a pull request, but make sure to remove your MAC address if you haven't already.  
+If you wish to contribute to this respository: Make a pull request.  
 Have a suggestion, question or problem? Make an [issue](https://github.com/calamityy/govee-LED-Shell-cmd/issues) and I'll get back to you ASAP!  
